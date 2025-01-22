@@ -8,6 +8,7 @@ function Tasbiix(){
     }
 
     const handlereset = () => {
+        
         setcounter(0)
     }
 
